@@ -1,0 +1,19 @@
+{
+  "name": "FLedEarth",
+  "description": "Some effects to control the fled earth.",
+  "keywords": "led,fled,conspiracy",
+  "authors": {
+    "name": "Joris Rietveld",
+    "email": "jorisrietveld@gmail.com",
+    "url": "https://github.com/jorisrietveld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorisrietveld"
+  },
+  "version": "0.0.1",
+  "license": "GPLv3",
+  "homepage": "https://github.com/jorisrietveld",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
